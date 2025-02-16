@@ -6,7 +6,7 @@ const Contact = () => {
         {
             id: 1,
             title: "Location",
-            det: "Delhi, India",
+            det: "Vilnius, Lithuania",
             src: (
                 <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -24,7 +24,7 @@ const Contact = () => {
                     <circle cx="12" cy="10" r="3"></circle>
                 </svg>
             ),
-            link: "https://www.google.com/maps/place/Delhi/@28.6437954,76.8130408,10z/data=!3m1!4b1!4m6!3m5!1s0x390cfd5b347eb62d:0x37205b715389640!8m2!3d28.7040592!4d77.1024902!16zL20vMDlmMDc?entry=ttu"
+            link: "https://maps.app.goo.gl/Vct3CLLiQuBW2TqV6"
         },
         {
             id: 2,

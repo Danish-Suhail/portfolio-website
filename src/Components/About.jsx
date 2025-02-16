@@ -31,7 +31,7 @@ const About = () => {
             About Me
           </h3>
           <h1 className='font-extrabold text-4xl mt-4 text-gray-900'>
-            A Dedicated Front-end Developer Based in India 📍
+            A Dedicated Front-end Developer Based in Vilnius, Lithuania 📍
           </h1>
           <p className='text-gray-600 text-lg mt-6'>
             Hello World! I'm Danish Suhail, a Web Developer. I love combining the worlds of logic and creative design to make eye-catching, accessible, and user-friendly websites and applications. I've worked on many projects using various technologies such as JavaScript, ReactJS, Tailwind CSS, Firebase, and MongoDB. I also have backend skills in NodeJS and ExpressJS, and I've worked with cloud technologies like AWS buckets and REST APIs.
